@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item ID="10000">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>0</power>
+		<mainCamPos>17.4,7,50</mainCamPos>
+		<mainCamRote>45,135,0</mainCamRote>
+		<playerBornPos>22,-1.1,45</playerBornPos>
+		<playerBornRote>0,0,0</playerBornRote>
+	</item>
+	<item ID="10001">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>1</power>
+		<mainCamPos>17.4,7,51</mainCamPos>
+		<mainCamRote>45,135,1</mainCamRote>
+		<playerBornPos>22,-1.1,46</playerBornPos>
+		<playerBornRote>0,0,1</playerBornRote>
+	</item>
+	<item ID="10002">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>2</power>
+		<mainCamPos>17.4,7,52</mainCamPos>
+		<mainCamRote>45,135,2</mainCamRote>
+		<playerBornPos>22,-1.1,47</playerBornPos>
+		<playerBornRote>0,0,2</playerBornRote>
+	</item>
+	<item ID="10003">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>3</power>
+		<mainCamPos>17.4,7,53</mainCamPos>
+		<mainCamRote>45,135,3</mainCamRote>
+		<playerBornPos>22,-1.1,48</playerBornPos>
+		<playerBornRote>0,0,3</playerBornRote>
+	</item>
+	<item ID="10004">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>4</power>
+		<mainCamPos>17.4,7,54</mainCamPos>
+		<mainCamRote>45,135,4</mainCamRote>
+		<playerBornPos>22,-1.1,49</playerBornPos>
+		<playerBornRote>0,0,4</playerBornRote>
+	</item>
+	<item ID="10005">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>5</power>
+		<mainCamPos>17.4,7,55</mainCamPos>
+		<mainCamRote>45,135,5</mainCamRote>
+		<playerBornPos>22,-1.1,50</playerBornPos>
+		<playerBornRote>0,0,5</playerBornRote>
+	</item>
+	<item ID="10006">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>6</power>
+		<mainCamPos>17.4,7,56</mainCamPos>
+		<mainCamRote>45,135,6</mainCamRote>
+		<playerBornPos>22,-1.1,51</playerBornPos>
+		<playerBornRote>0,0,6</playerBornRote>
+	</item>
+	<item ID="10007">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>7</power>
+		<mainCamPos>17.4,7,57</mainCamPos>
+		<mainCamRote>45,135,7</mainCamRote>
+		<playerBornPos>22,-1.1,52</playerBornPos>
+		<playerBornRote>0,0,7</playerBornRote>
+	</item>
+	<item ID="10008">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>8</power>
+		<mainCamPos>17.4,7,58</mainCamPos>
+		<mainCamRote>45,135,8</mainCamRote>
+		<playerBornPos>22,-1.1,53</playerBornPos>
+		<playerBornRote>0,0,8</playerBornRote>
+	</item>
+	<item ID="10009">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>9</power>
+		<mainCamPos>17.4,7,59</mainCamPos>
+		<mainCamRote>45,135,9</mainCamRote>
+		<playerBornPos>22,-1.1,54</playerBornPos>
+		<playerBornRote>0,0,9</playerBornRote>
+	</item>
+	<item ID="10010">
+		<mapName>圣光主城</mapName>
+		<sceneName>SceneMainCity</sceneName>
+		<power>10</power>
+		<mainCamPos>17.4,7,60</mainCamPos>
+		<mainCamRote>45,135,10</mainCamRote>
+		<playerBornPos>22,-1.1,55</playerBornPos>
+		<playerBornRote>0,0,10</playerBornRote>
+	</item>
+</root>

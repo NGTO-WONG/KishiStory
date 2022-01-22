@@ -1,0 +1,293 @@
+
+SunJian.png
+size: 1456,1456
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+da tui-Y
+  rotate: true
+  xy: 874, 356
+  size: 243, 128
+  orig: 243, 128
+  offset: 0, 0
+  index: -1
+da tui-Z
+  rotate: false
+  xy: 404, 565
+  size: 139, 424
+  orig: 139, 424
+  offset: 0, 0
+  index: -1
+dai mao
+  rotate: false
+  xy: 651, 631
+  size: 48, 50
+  orig: 48, 97
+  offset: 0, 20
+  index: -1
+er-Y
+  rotate: true
+  xy: 545, 575
+  size: 53, 78
+  orig: 78, 101
+  offset: 16, 10
+  index: -1
+fa-1
+  rotate: false
+  xy: 1105, 749
+  size: 120, 121
+  orig: 178, 121
+  offset: 0, 0
+  index: -1
+fa-2
+  rotate: true
+  xy: 1105, 604
+  size: 143, 74
+  orig: 143, 74
+  offset: 0, 0
+  index: -1
+fa-3
+  rotate: true
+  xy: 1227, 895
+  size: 94, 214
+  orig: 94, 214
+  offset: 0, 0
+  index: -1
+fa-4
+  rotate: true
+  xy: 1267, 641
+  size: 87, 167
+  orig: 87, 167
+  offset: 0, 0
+  index: -1
+fa-H1
+  rotate: false
+  xy: 1227, 313
+  size: 154, 152
+  orig: 233, 496
+  offset: 0, 298
+  index: -1
+fa-H2
+  rotate: true
+  xy: 532, 3
+  size: 195, 211
+  orig: 481, 230
+  offset: 286, 0
+  index: -1
+fa-H3
+  rotate: true
+  xy: 1027, 872
+  size: 117, 189
+  orig: 192, 276
+  offset: 10, 87
+  index: -1
+hua-Y
+  rotate: true
+  xy: 1223, 230
+  size: 81, 91
+  orig: 81, 126
+  offset: 0, 35
+  index: -1
+hua-Z
+  rotate: true
+  xy: 1316, 238
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+jiao-Y
+  rotate: true
+  xy: 1227, 806
+  size: 87, 209
+  orig: 87, 209
+  offset: 0, 0
+  index: -1
+jiao-Z
+  rotate: false
+  xy: 745, 3
+  size: 90, 225
+  orig: 90, 225
+  offset: 0, 0
+  index: -1
+kua
+  rotate: true
+  xy: 837, 28
+  size: 264, 230
+  orig: 264, 230
+  offset: 0, 0
+  index: -1
+pi feng
+  rotate: true
+  xy: 2, 66
+  size: 923, 400
+  orig: 923, 400
+  offset: 0, 0
+  index: -1
+qiang
+  rotate: false
+  xy: 2, 991
+  size: 1447, 460
+  orig: 1447, 460
+  offset: 0, 0
+  index: -1
+qun-H1
+  rotate: false
+  xy: 404, 200
+  size: 153, 363
+  orig: 153, 363
+  offset: 0, 0
+  index: -1
+qun-H2
+  rotate: false
+  xy: 1004, 363
+  size: 221, 236
+  orig: 274, 430
+  offset: 0, 194
+  index: -1
+qun-K
+  rotate: false
+  xy: 1316, 152
+  size: 85, 84
+  orig: 257, 304
+  offset: 56, 160
+  index: -1
+qun-Y
+  rotate: false
+  xy: 651, 683
+  size: 105, 306
+  orig: 231, 606
+  offset: 68, 258
+  index: -1
+qun-Z
+  rotate: true
+  xy: 559, 230
+  size: 343, 201
+  orig: 655, 277
+  offset: 142, 0
+  index: -1
+shen
+  rotate: false
+  xy: 758, 686
+  size: 237, 303
+  orig: 260, 357
+  offset: 12, 25
+  index: -1
+shou bi-Y
+  rotate: true
+  xy: 1227, 467
+  size: 72, 204
+  orig: 78, 204
+  offset: 6, 0
+  index: -1
+shou bi-Z
+  rotate: false
+  xy: 1027, 602
+  size: 76, 202
+  orig: 76, 202
+  offset: 0, 0
+  index: -1
+shou-Y1
+  rotate: true
+  xy: 282, 9
+  size: 55, 121
+  orig: 55, 121
+  offset: 0, 0
+  index: -1
+shou-Y2
+  rotate: true
+  xy: 1069, 276
+  size: 85, 152
+  orig: 85, 152
+  offset: 0, 0
+  index: -1
+shou-Z
+  rotate: true
+  xy: 1181, 617
+  size: 111, 84
+  orig: 111, 84
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 404, 69
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+xiao bi-Y
+  rotate: true
+  xy: 1227, 541
+  size: 74, 205
+  orig: 161, 207
+  offset: 87, 0
+  index: -1
+xiao bi-Z
+  rotate: true
+  xy: 1227, 730
+  size: 74, 206
+  orig: 151, 218
+  offset: 0, 0
+  index: -1
+xiao tui-Y
+  rotate: false
+  xy: 762, 294
+  size: 110, 297
+  orig: 187, 297
+  offset: 67, 0
+  index: -1
+xiao tui-Z
+  rotate: false
+  xy: 545, 630
+  size: 104, 359
+  orig: 168, 359
+  offset: 0, 0
+  index: -1
+yan-ban
+  rotate: false
+  xy: 729, 593
+  size: 112, 43
+  orig: 117, 45
+  offset: 5, 0
+  index: -1
+yan-bi
+  rotate: false
+  xy: 625, 577
+  size: 102, 51
+  orig: 118, 53
+  offset: 9, 1
+  index: -1
+yan-zheng
+  rotate: false
+  xy: 2, 2
+  size: 117, 62
+  orig: 117, 77
+  offset: 0, 5
+  index: -1
+yao dai-Y1
+  rotate: false
+  xy: 121, 9
+  size: 159, 55
+  orig: 330, 128
+  offset: 106, 73
+  index: -1
+yao dai-Y2
+  rotate: false
+  xy: 701, 638
+  size: 189, 43
+  orig: 189, 43
+  offset: 0, 0
+  index: -1
+yao dai-Z1
+  rotate: false
+  xy: 405, 14
+  size: 119, 53
+  orig: 281, 108
+  offset: 67, 55
+  index: -1
+yao dai-Z2
+  rotate: false
+  xy: 843, 601
+  size: 182, 35
+  orig: 182, 35
+  offset: 0, 0
+  index: -1

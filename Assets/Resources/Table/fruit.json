@@ -1,0 +1,212 @@
+﻿[
+  {
+    "fruit_number": "101",
+    "fruit_name": "英雄",
+    "fruit_level": "1",
+    "fruit_size": "95",
+    "fruit_type": "1",
+    "fruit_element": "0",
+    "probability": "0.25",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "201",
+    "fruit_name": "宝剑",
+    "fruit_level": "1",
+    "fruit_size": "95",
+    "fruit_type": "2",
+    "fruit_element": "0",
+    "probability": "0.15",
+    "weighted": "1"
+  },
+  {
+    "fruit_number": "301",
+    "fruit_name": "烈火",
+    "fruit_level": "1",
+    "fruit_size": "95",
+    "fruit_type": "3",
+    "fruit_element": "1",
+    "probability": "0.15",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "311",
+    "fruit_name": "露水",
+    "fruit_level": "1",
+    "fruit_size": "95",
+    "fruit_type": "3",
+    "fruit_element": "2",
+    "probability": "0.15",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "401",
+    "fruit_name": "火剑",
+    "fruit_level": "1",
+    "fruit_size": "95",
+    "fruit_type": "4",
+    "fruit_element": "1",
+    "probability": "0.15",
+    "weighted": "1"
+  },
+  {
+    "fruit_number": "411",
+    "fruit_name": "水剑",
+    "fruit_level": "1",
+    "fruit_size": "95",
+    "fruit_type": "4",
+    "fruit_element": "2",
+    "probability": "0.15",
+    "weighted": "1"
+  },
+  {
+    "fruit_number": "202",
+    "fruit_name": "宝剑",
+    "fruit_level": "2",
+    "fruit_size": "125",
+    "fruit_type": "2",
+    "fruit_element": "0",
+    "probability": "0",
+    "weighted": "1.5"
+  },
+  {
+    "fruit_number": "302",
+    "fruit_name": "烈火",
+    "fruit_level": "2",
+    "fruit_size": "125",
+    "fruit_type": "3",
+    "fruit_element": "1",
+    "probability": "0",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "312",
+    "fruit_name": "露水",
+    "fruit_level": "2",
+    "fruit_size": "125",
+    "fruit_type": "3",
+    "fruit_element": "2",
+    "probability": "0",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "402",
+    "fruit_name": "火剑",
+    "fruit_level": "2",
+    "fruit_size": "125",
+    "fruit_type": "4",
+    "fruit_element": "1",
+    "probability": "0",
+    "weighted": "1.5"
+  },
+  {
+    "fruit_number": "412",
+    "fruit_name": "水剑",
+    "fruit_level": "2",
+    "fruit_size": "125",
+    "fruit_type": "4",
+    "fruit_element": "2",
+    "probability": "0",
+    "weighted": "1.5"
+  },
+  {
+    "fruit_number": "203",
+    "fruit_name": "宝剑",
+    "fruit_level": "3",
+    "fruit_size": "140",
+    "fruit_type": "2",
+    "fruit_element": "0",
+    "probability": "0",
+    "weighted": "1.5"
+  },
+  {
+    "fruit_number": "303",
+    "fruit_name": "烈火",
+    "fruit_level": "3",
+    "fruit_size": "140",
+    "fruit_type": "3",
+    "fruit_element": "1",
+    "probability": "0",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "313",
+    "fruit_name": "露水",
+    "fruit_level": "3",
+    "fruit_size": "140",
+    "fruit_type": "3",
+    "fruit_element": "2",
+    "probability": "0",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "403",
+    "fruit_name": "火剑",
+    "fruit_level": "3",
+    "fruit_size": "140",
+    "fruit_type": "4",
+    "fruit_element": "1",
+    "probability": "0",
+    "weighted": "1.5"
+  },
+  {
+    "fruit_number": "413",
+    "fruit_name": "水剑",
+    "fruit_level": "3",
+    "fruit_size": "140",
+    "fruit_type": "4",
+    "fruit_element": "2",
+    "probability": "0",
+    "weighted": "1.5"
+  },
+  {
+    "fruit_number": "204",
+    "fruit_name": "宝剑",
+    "fruit_level": "4",
+    "fruit_size": "160",
+    "fruit_type": "2",
+    "fruit_element": "0",
+    "probability": "0",
+    "weighted": "1.5"
+  },
+  {
+    "fruit_number": "304",
+    "fruit_name": "烈火",
+    "fruit_level": "4",
+    "fruit_size": "160",
+    "fruit_type": "3",
+    "fruit_element": "1",
+    "probability": "0",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "314",
+    "fruit_name": "露水",
+    "fruit_level": "4",
+    "fruit_size": "160",
+    "fruit_type": "3",
+    "fruit_element": "2",
+    "probability": "0",
+    "weighted": "0"
+  },
+  {
+    "fruit_number": "404",
+    "fruit_name": "火剑",
+    "fruit_level": "4",
+    "fruit_size": "160",
+    "fruit_type": "4",
+    "fruit_element": "1",
+    "probability": "0",
+    "weighted": "1.5"
+  },
+  {
+    "fruit_number": "414",
+    "fruit_name": "水剑",
+    "fruit_level": "4",
+    "fruit_size": "160",
+    "fruit_type": "4",
+    "fruit_element": "2",
+    "probability": "0",
+    "weighted": "1.5"
+  }
+]

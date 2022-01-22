@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item id="10024">
+		<name>SW1</name>
+		<description>测试武器描述</description>
+		<imagePath>ResImage/Equipment/SW1</imagePath>
+		<type>weapon</type>
+		<rarity>s</rarity>
+		<level>1</level>
+		<atk>20</atk>
+		<def>0</def>
+		<hp>0</hp>
+	</item>
+	<item id="10025">
+		<name>SW2</name>
+		<description>测试武器描述</description>
+		<imagePath>ResImage/Equipment/SW2</imagePath>
+		<type>weapon</type>
+		<rarity>s</rarity>
+		<level>1</level>
+		<atk>20</atk>
+		<def>0</def>
+		<hp>0</hp>
+	</item>
+	<item id="10005">
+		<name>AW1</name>
+		<description>测试武器描述</description>
+		<imagePath>ResImage/Equipment/AW1</imagePath>
+		<type>weapon</type>
+		<rarity>a</rarity>
+		<level>1</level>
+		<atk>20</atk>
+		<def>0</def>
+		<hp>0</hp>
+	</item>
+	<item id="10006">
+		<name>AW2</name>
+		<description>测试武器描述</description>
+		<imagePath>ResImage/Equipment/AW2</imagePath>
+		<type>weapon</type>
+		<rarity>a</rarity>
+		<level>1</level>
+		<atk>20</atk>
+		<def>0</def>
+		<hp>0</hp>
+	</item>
+	<item id="10017">
+		<name>CW1</name>
+		<description>测试武器描述</description>
+		<imagePath>ResImage/Equipment/CW1</imagePath>
+		<type>weapon</type>
+		<rarity>c</rarity>
+		<level>1</level>
+		<atk>20</atk>
+		<def>0</def>
+		<hp>0</hp>
+	</item>
+	<item id="10012">
+		<name>BW1</name>
+		<description>测试武器描述</description>
+		<imagePath>ResImage/Equipment/BW1</imagePath>
+		<type>weapon</type>
+		<rarity>b</rarity>
+		<level>1</level>
+		<atk>20</atk>
+		<def>0</def>
+		<hp>0</hp>
+	</item>
+	<item id="10013">
+		<name>BW2</name>
+		<description>测试武器描述</description>
+		<imagePath>ResImage/Equipment/BW2</imagePath>
+		<type>weapon</type>
+		<rarity>b</rarity>
+		<level>1</level>
+		<atk>20</atk>
+		<def>0</def>
+		<hp>0</hp>
+	</item>
+	<item id="10018">
+		<name>SB1</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/SB1</imagePath>
+		<type>defense</type>
+		<rarity>s</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10019">
+		<name>SB2</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/SB2</imagePath>
+		<type>defense</type>
+		<rarity>s</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10020">
+		<name>SL1</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/SL1</imagePath>
+		<type>defense</type>
+		<rarity>s</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10021">
+		<name>SL2</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/SL2</imagePath>
+		<type>defense</type>
+		<rarity>s</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10001">
+		<name>AB1</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/AB1</imagePath>
+		<type>defense</type>
+		<rarity>a</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10002">
+		<name>AB2</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/AB2</imagePath>
+		<type>defense</type>
+		<rarity>a</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10003">
+		<name>AL1</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/AL1</imagePath>
+		<type>defense</type>
+		<rarity>a</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10006">
+		<name>BB1</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/BB1</imagePath>
+		<type>defense</type>
+		<rarity>b</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10007">
+		<name>BB2</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/BB2</imagePath>
+		<type>defense</type>
+		<rarity>b</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10008">
+		<name>BL1</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/BL1</imagePath>
+		<type>defense</type>
+		<rarity>b</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10009">
+		<name>BL2</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/BL2</imagePath>
+		<type>defense</type>
+		<rarity>b</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10014">
+		<name>CB1</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/CB1</imagePath>
+		<type>defense</type>
+		<rarity>c</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10015">
+		<name>CL1</name>
+		<description>测试防具描述</description>
+		<imagePath>ResImage/Equipment/CL1</imagePath>
+		<type>defense</type>
+		<rarity>c</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>20</def>
+		<hp>0</hp>
+	</item>
+	<item id="10016">
+		<name>CO1</name>
+		<description>测试穿戴描述</description>
+		<imagePath>ResImage/Equipment/CO1</imagePath>
+		<type>decorate</type>
+		<rarity>c</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>0</def>
+		<hp>100</hp>
+	</item>
+	<item id="10010">
+		<name>BO1</name>
+		<description>测试穿戴描述</description>
+		<imagePath>ResImage/Equipment/BO1</imagePath>
+		<type>decorate</type>
+		<rarity>b</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>0</def>
+		<hp>100</hp>
+	</item>
+	<item id="10011">
+		<name>BO2</name>
+		<description>测试穿戴描述</description>
+		<imagePath>ResImage/Equipment/BO2</imagePath>
+		<type>decorate</type>
+		<rarity>b</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>0</def>
+		<hp>100</hp>
+	</item>
+	<item id="10004">
+		<name>AO1</name>
+		<description>测试穿戴描述</description>
+		<imagePath>ResImage/Equipment/AO1</imagePath>
+		<type>decorate</type>
+		<rarity>a</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>0</def>
+		<hp>100</hp>
+	</item>
+	<item id="10022">
+		<name>SO1</name>
+		<description>测试穿戴描述</description>
+		<imagePath>ResImage/Equipment/SO1</imagePath>
+		<type>decorate</type>
+		<rarity>s</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>0</def>
+		<hp>100</hp>
+	</item>
+	<item id="10023">
+		<name>SO2</name>
+		<description>测试穿戴描述</description>
+		<imagePath>ResImage/Equipment/SO2</imagePath>
+		<type>decorate</type>
+		<rarity>s</rarity>
+		<level>1</level>
+		<atk>0</atk>
+		<def>0</def>
+		<hp>100</hp>
+	</item>
+</root>

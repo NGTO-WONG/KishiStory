@@ -1,0 +1,182 @@
+﻿[
+  {
+    "hero_number": "1001",
+    "hero_name": "测试英雄1",
+    "hero_level": "1",
+    "hero_HP": "1000",
+    "hero_attack": "100",
+    "hero_defense": "10",
+    "upgrade_experience": "100"
+  },
+  {
+    "hero_number": "1002",
+    "hero_name": "测试英雄1",
+    "hero_level": "2",
+    "hero_HP": "1200",
+    "hero_attack": "105",
+    "hero_defense": "15",
+    "upgrade_experience": "230"
+  },
+  {
+    "hero_number": "1003",
+    "hero_name": "测试英雄1",
+    "hero_level": "3",
+    "hero_HP": "1400",
+    "hero_attack": "110",
+    "hero_defense": "20",
+    "upgrade_experience": "390"
+  },
+  {
+    "hero_number": "1004",
+    "hero_name": "测试英雄1",
+    "hero_level": "4",
+    "hero_HP": "1600",
+    "hero_attack": "115",
+    "hero_defense": "25",
+    "upgrade_experience": "800"
+  },
+  {
+    "hero_number": "1005",
+    "hero_name": "测试英雄1",
+    "hero_level": "5",
+    "hero_HP": "1800",
+    "hero_attack": "120",
+    "hero_defense": "30",
+    "upgrade_experience": "1050"
+  },
+  {
+    "hero_number": "1006",
+    "hero_name": "测试英雄1",
+    "hero_level": "6",
+    "hero_HP": "2000",
+    "hero_attack": "125",
+    "hero_defense": "35",
+    "upgrade_experience": "1330"
+  },
+  {
+    "hero_number": "1007",
+    "hero_name": "测试英雄1",
+    "hero_level": "7",
+    "hero_HP": "2200",
+    "hero_attack": "130",
+    "hero_defense": "40",
+    "upgrade_experience": "1640"
+  },
+  {
+    "hero_number": "1008",
+    "hero_name": "测试英雄1",
+    "hero_level": "8",
+    "hero_HP": "2400",
+    "hero_attack": "135",
+    "hero_defense": "45",
+    "upgrade_experience": "1980"
+  },
+  {
+    "hero_number": "1009",
+    "hero_name": "测试英雄1",
+    "hero_level": "9",
+    "hero_HP": "2600",
+    "hero_attack": "140",
+    "hero_defense": "50",
+    "upgrade_experience": "2350"
+  },
+  {
+    "hero_number": "1010",
+    "hero_name": "测试英雄1",
+    "hero_level": "10",
+    "hero_HP": "2800",
+    "hero_attack": "145",
+    "hero_defense": "55",
+    "upgrade_experience": "2750"
+  },
+  {
+    "hero_number": "2001",
+    "hero_name": "测试英雄2",
+    "hero_level": "1",
+    "hero_HP": "1000",
+    "hero_attack": "100",
+    "hero_defense": "10",
+    "upgrade_experience": "100"
+  },
+  {
+    "hero_number": "2002",
+    "hero_name": "测试英雄2",
+    "hero_level": "2",
+    "hero_HP": "1200",
+    "hero_attack": "105",
+    "hero_defense": "15",
+    "upgrade_experience": "230"
+  },
+  {
+    "hero_number": "2003",
+    "hero_name": "测试英雄2",
+    "hero_level": "3",
+    "hero_HP": "1400",
+    "hero_attack": "110",
+    "hero_defense": "20",
+    "upgrade_experience": "390"
+  },
+  {
+    "hero_number": "2004",
+    "hero_name": "测试英雄2",
+    "hero_level": "4",
+    "hero_HP": "1600",
+    "hero_attack": "115",
+    "hero_defense": "25",
+    "upgrade_experience": "800"
+  },
+  {
+    "hero_number": "2005",
+    "hero_name": "测试英雄2",
+    "hero_level": "5",
+    "hero_HP": "1800",
+    "hero_attack": "120",
+    "hero_defense": "30",
+    "upgrade_experience": "1050"
+  },
+  {
+    "hero_number": "2006",
+    "hero_name": "测试英雄2",
+    "hero_level": "6",
+    "hero_HP": "2000",
+    "hero_attack": "125",
+    "hero_defense": "35",
+    "upgrade_experience": "1330"
+  },
+  {
+    "hero_number": "2007",
+    "hero_name": "测试英雄2",
+    "hero_level": "7",
+    "hero_HP": "2200",
+    "hero_attack": "130",
+    "hero_defense": "40",
+    "upgrade_experience": "1640"
+  },
+  {
+    "hero_number": "2008",
+    "hero_name": "测试英雄2",
+    "hero_level": "8",
+    "hero_HP": "2400",
+    "hero_attack": "135",
+    "hero_defense": "45",
+    "upgrade_experience": "1980"
+  },
+  {
+    "hero_number": "2009",
+    "hero_name": "测试英雄2",
+    "hero_level": "9",
+    "hero_HP": "2600",
+    "hero_attack": "140",
+    "hero_defense": "50",
+    "upgrade_experience": "2350"
+  },
+  {
+    "hero_number": "2010",
+    "hero_name": "测试英雄2",
+    "hero_level": "10",
+    "hero_HP": "2800",
+    "hero_attack": "145",
+    "hero_defense": "55",
+    "upgrade_experience": "2750"
+  }
+]

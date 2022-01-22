@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <title>%UNITY_WEB_NAME%</title>
+  <link rel="shortcut icon" href="TemplateData/favicon.ico">
+  <link rel="stylesheet" href="TemplateData/style.css">
+  <script src="TemplateData/UnityProgress.js"></script>
+  <script src="%UNITY_WEBGL_LOADER_URL%"></script>
+  <style>
+    html,
+    body {
+      margin: 0px;
+      height: 99.8%;
+    }
+  </style>
+  <script>
+    var unityInstance = UnityLoader.instantiate("unityContainer", "%UNITY_WEBGL_BUILD_URL%");
+  </script>
+</head>
+
+<body>
+  <div id="unityContainer" style="1080px; 1920px; position:fixed"></div>
+</body>
+
+</html>

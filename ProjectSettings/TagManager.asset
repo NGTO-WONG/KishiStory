@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ball
+  - Game3Area
+  - illustratedBtn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Game2
+  - CharaSetting
+  - BattleArea
+  - Game3
+  - CharaLive
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: far3
+    uniqueID: 1203795637
+    locked: 0
+  - name: far2
+    uniqueID: 3880217907
+    locked: 0
+  - name: far
+    uniqueID: 1691334911
+    locked: 0
+  - name: mid
+    uniqueID: 3709776897
+    locked: 0
+  - name: mid+1
+    uniqueID: 4061171625
+    locked: 0
+  - name: close
+    uniqueID: 1136549609
+    locked: 0
+  - name: chara
+    uniqueID: 3178055279
+    locked: 0
+  - name: close2
+    uniqueID: 3186857883
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,209 @@
+
+50024.png
+size: 428,428
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armA
+  rotate: false
+  xy: 376, 28
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+armB
+  rotate: false
+  xy: 360, 129
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+aura_1
+  rotate: true
+  xy: 173, 365
+  size: 58, 147
+  orig: 58, 147
+  offset: 0, 0
+  index: -1
+aura_2
+  rotate: true
+  xy: 322, 369
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+aura_3
+  rotate: true
+  xy: 158, 18
+  size: 66, 136
+  orig: 66, 136
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 285, 129
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 263, 238
+  size: 125, 58
+  orig: 125, 58
+  offset: 0, 0
+  index: -1
+body_Y
+  rotate: false
+  xy: 2, 199
+  size: 169, 224
+  orig: 169, 224
+  offset: 0, 0
+  index: -1
+dustup
+  rotate: true
+  xy: 173, 200
+  size: 47, 58
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+eff_bite
+  rotate: false
+  xy: 323, 240
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+eff_dot
+  rotate: true
+  xy: 403, 354
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+eff_jump02
+  rotate: false
+  xy: 173, 249
+  size: 86, 29
+  orig: 86, 29
+  offset: 0, 0
+  index: -1
+eff_pop
+  rotate: false
+  xy: 360, 149
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+eff_pubDash
+  rotate: true
+  xy: 173, 280
+  size: 83, 88
+  orig: 83, 89
+  offset: 0, 1
+  index: -1
+eff_pubLight
+  rotate: false
+  xy: 377, 204
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+eff_slap01
+  rotate: true
+  xy: 296, 67
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+eff_smoke
+  rotate: false
+  xy: 296, 28
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 150, 49
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+eye_Y
+  rotate: false
+  xy: 390, 134
+  size: 13, 13
+  orig: 14, 15
+  offset: 1, 1
+  index: -1
+ghost
+  rotate: false
+  xy: 323, 261
+  size: 78, 106
+  orig: 78, 106
+  offset: 0, 0
+  index: -1
+handA
+  rotate: false
+  xy: 383, 240
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+handB
+  rotate: false
+  xy: 358, 240
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+head_Y
+  rotate: false
+  xy: 158, 86
+  size: 125, 111
+  orig: 125, 112
+  offset: 0, 1
+  index: -1
+mouth
+  rotate: true
+  xy: 150, 61
+  size: 20, 5
+  orig: 20, 5
+  offset: 0, 0
+  index: -1
+mouth_Y
+  rotate: false
+  xy: 2, 2
+  size: 92, 79
+  orig: 92, 80
+  offset: 0, 0
+  index: -1
+mouth_Y1
+  rotate: true
+  xy: 337, 32
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+piece_1
+  rotate: false
+  xy: 96, 8
+  size: 52, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+prickle
+  rotate: true
+  xy: 2, 83
+  size: 114, 154
+  orig: 114, 154
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 233, 203
+  size: 142, 33
+  orig: 142, 33
+  offset: 0, 0
+  index: -1

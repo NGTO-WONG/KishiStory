@@ -1,0 +1,18 @@
+﻿[
+  {
+    "prop_id": "101",
+    "prop_name": "测试道具1",
+    "prop_tyle": "0",
+    "prop_describe": "被动道具，在特定系统中使用",
+    "rarity": "1",
+    "use_type": "0"
+  },
+  {
+    "prop_id": "102",
+    "prop_name": "测试道具2",
+    "prop_tyle": "1",
+    "prop_describe": "主动道具，主动使用效果",
+    "rarity": "1",
+    "use_type": "1"
+  }
+]
